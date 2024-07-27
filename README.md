@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Light & Dark Mode Navigation Bar Using React JS
 
-Currently, two official plugins are available:
+ ![Screenshot 2024-07-27 043954](https://github.com/user-attachments/assets/3ffd2d17-2eea-45be-83f0-31eea70f3c02)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (88)](https://github.com/user-attachments/assets/fe76d727-5d4e-4372-b259-d8c3fc003433)
+
+
+![Screenshot (83)](https://github.com/user-attachments/assets/2eb57ddb-3a16-420b-ae3c-186c54a5c87b)
